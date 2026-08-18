@@ -1,0 +1,6 @@
+.env
+venv/
+qdrant_storage/
+__pycache__/
+*.pyc
+frontend/node_modules/
