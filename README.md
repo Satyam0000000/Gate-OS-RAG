@@ -1,4 +1,4 @@
-# OS Scholar RAG
+# GATE OS RAG
 
 An AI-powered Retrieval-Augmented Generation (RAG) application for answering Operating Systems questions from course material.
 
